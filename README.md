@@ -38,7 +38,7 @@ The script will:
 
 ## Report
 
-The full derivation — from SDEs through HJB to the Merton Proportion — is in [`Optimal_Control_Project_Report.pdf`](./Optimal_Control_Project_Report.pdf).
+The full derivation — from SDEs through HJB to the Merton Proportion — is in [`optimal_portfolio_report`](./optimal_portfolio_report).
 
 ---
 
