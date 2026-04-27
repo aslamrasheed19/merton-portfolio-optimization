@@ -38,7 +38,7 @@ The script will:
 
 ## Report
 
-The full derivation — from SDEs through HJB to the Merton Proportion — is in [`optimal_portfolio_report`](./optimal_portfolio_report).
+The full derivation — from SDEs through HJB to the Merton Proportion — is in [`optimal_portfolio_report.pdf`](./optimal_portfolio_report.pdf).
 
 ---
 
